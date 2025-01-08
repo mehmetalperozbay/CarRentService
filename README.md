@@ -44,7 +44,7 @@ Projeyi çalıştırmak için aşağıdaki yazılımlara ihtiyacınız var:
 - [MySQL Server](https://www.mysql.com/)
 
 ### Projeyi Klonlama
-Adım 1:
+Adım 1:  'Depoyu Klonla' Butonuna Basınız.
 
 ![Adım 1](./images/git1.png)
 
