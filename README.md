@@ -51,7 +51,7 @@ Adım 1:
 
 Adım 2:
 
-![Adım 2](./images/git1.png)
+![Adım 2](./images/git2.png)
 
 Veya
 
