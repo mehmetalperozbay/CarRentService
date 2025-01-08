@@ -68,5 +68,9 @@ namespace CarRentService.MySql
 
 
         }
+        public static void destektalebi(string baslik, string aciklama)
+        {
+            var tosql = @$"";
+        }
     }
 }
