@@ -44,8 +44,13 @@ Projeyi çalıştırmak için aşağıdaki yazılımlara ihtiyacınız var:
 - [MySQL Server](https://www.mysql.com/)
 
 ### Projeyi Klonlama
+Adım 1:
 
 ![Adım 1](./images/git1.png)
+
+
+Adım 2:
+
 ![Adım 2](./images/git1.png)
 
 Veya
