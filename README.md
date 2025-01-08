@@ -9,7 +9,9 @@ Bu Proje Ödev Olarak Yapılmıştır. 2024 - 2025 Eğitim Öğretim Yılı.
 - **Admin Paneli:**
   - Kullanıcıları Spectre Console ile Görme.
   - Kiralanan Arabaları Görme.
-  - Kullanıcı Ekleme/Silme/Sorgulama.
+  - Kullanıcı Ekleme.
+  - Kullanıcı Silme.
+  - Kullanıcı Sorgulama (MySql).
   - Destek Talepleri.
   - Kiralama geçmişi görüntüleme.
 - **Kullanıcı Paneli:**
