@@ -1,8 +1,8 @@
 # CarRentService
 
-CarRentService, araç kiralama süreçlerini yönetmek ve kullanıcı doğrulamalarını gerçekleştirmek için geliştirilmiş bir uygulamadır. Proje, kullanıcıların araç kiralama işlemlerini basitleştirirken yöneticiler için de bir admin paneli sunmaktadır. [İndir](https://github.com/mehmetalperozbay/CarRentService/releases/download/v1.0.0/ArabaKiralama.zip) 
+CarRentService, araç kiralama süreçlerini yönetmek ve kullanıcı doğrulamalarını gerçekleştirmek için geliştirilmiş bir uygulamadır. Proje, kullanıcıların araç kiralama işlemlerini basitleştirirken yöneticiler için de bir admin paneli sunmaktadır. 
 
-Bu Proje Ödev Olarak Yapılmıştır. 2024 - 2025 Eğitim Öğretim Yılı. 
+Bu Proje Ödev Olarak Yapılmıştır. 2024 - 2025 Eğitim Öğretim Yılı. [Projeyi İndir](https://github.com/mehmetalperozbay/CarRentService/releases/download/v1.0.0/ArabaKiralama.zip)  
 
 ## Özellikler
 
