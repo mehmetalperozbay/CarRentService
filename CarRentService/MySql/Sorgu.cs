@@ -76,7 +76,7 @@ namespace CarRentService.MySql
 
 
         }
-
+        public static string id = "";
         public static string CustomerIdSorgu(string tc, string password)
         {
             MySqlConnection connect = new MySqlConnection(connectionString);
@@ -91,7 +91,7 @@ namespace CarRentService.MySql
             if (reader.Read())
             {
                 string Id = reader["Id"].ToString();
-
+                id = Id;
                 return Id;
             }
             else

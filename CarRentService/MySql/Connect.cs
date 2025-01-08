@@ -57,6 +57,13 @@ namespace CarRentService.MySql
                     Password varchar (50)
                 );";
 
+            var Support = $@"CREATE TABLE IF NOT EXISTS Support(
+                    Id int Auto_increment PRIMARY KEY,
+                    UserId int,
+                    Baslik varchar(50),
+                    Aciklama varchar(200)
+                );";
+
             var AdminInsert = @"INSERT INTO Admin(Username, Password) VALUES
                 ('root' , 'root');";
 

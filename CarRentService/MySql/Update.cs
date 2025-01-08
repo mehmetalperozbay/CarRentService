@@ -70,7 +70,16 @@ namespace CarRentService.MySql
         }
         public static void destektalebi(string baslik, string aciklama)
         {
-            var tosql = @$"";
+            string connect = "Server=localhost;Database=CarRent;User=root;Password=122333;";
+            string id = Sorgu.id.ToString();
+            var tosql = @$"Insert Into Support (UserId , Baslik , Aciklama) Values ({id},'{baslik}','{aciklama}')";
+
+            MySqlConnection connection = new MySqlConnection(connect);
+            connection.Open();
+            using (MySqlCommand cmd = new MySqlCommand(tosql, connection)) 
+
+            cmd.ExecuteScalar(); 
+
         }
     }
 }
