@@ -12,11 +12,14 @@ Bu Proje Ödev Olarak Yapılmıştır. 2024 - 2025 Eğitim Öğretim Yılı.
   - Kullanıcı Ekleme/Silme/Sorgulama.
   - Destek Talepleri.
   - Kiralama geçmişi görüntüleme.
-- **Kullanıcı Yönetimi:**
+- **Kullanıcı Paneli:**
   - T.C. Kimlik No (TCKN) doğrulama sistemi.
-  - Kullanıcı kayıt ve giriş işlemleri.
-- **Araç Kiralama:**
-  - Kullanıcıların araç kiralayıp iade işlemlerini gerçekleştirebilmesi.
+  - Araba Modellerini Görme.
+  - Araba Kiralama.
+  - Destek Talebi Açma.
+  - Kullanıcı Kayıt.
+  - Kullanıcı Girişi.
+  - Araç Kiralama Sözleşmesi.
 - **API Entegrasyonu:**
   - TCKN doğrulama işlemleri için dış bir API kullanımı [NVI API](https://www.nvi.gov.tr/).
 
@@ -26,6 +29,7 @@ Bu Proje Ödev Olarak Yapılmıştır. 2024 - 2025 Eğitim Öğretim Yılı.
 - **C# (ASP.NET Core)**: Backend geliştirme için.
 - **HttpClient**: TCKN API'sine istek gönderme ve yanıt alma işlemleri.
 - **MySQL**: Veritabanı yönetimi.
+- **Spectre.Console**: Veritabanından gelen verileri güzel göstermek.
 
   
 ### Kullanılan NuGet Paketleri
