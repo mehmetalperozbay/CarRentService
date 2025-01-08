@@ -43,9 +43,13 @@ Projeyi çalıştırmak için aşağıdaki yazılımlara ihtiyacınız var:
 - [.NET SDK (5.0 veya üzeri)](https://dotnet.microsoft.com/download)
 - [MySQL Server](https://www.mysql.com/)
 
-## Kurulum
+### Projeyi Klonlama
 
-### 1. Projeyi Klonlayın
+[Adım 1](https://github.com/mehmetalperozbay/CarRentService/images/git1.png)
+[Adım 2](https://github.com/mehmetalperozbay/CarRentService/images/git2.png)
+
+Veya
+
 ```bash
 git clone https://github.com/mehmetalperozbay/CarRentService.git
 cd CarRentService
