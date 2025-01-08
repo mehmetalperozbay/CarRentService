@@ -49,7 +49,7 @@ Adım 1:  'Depoyu Klonla' Butonuna Basın.
 ![Adım 1](./images/git1.png)
 
 
-Adım 2: Depo Konumunu ```https://github.com/mehmetalperozbay/CarRentService.git```Olarak Değiştirin ve 'Kopyala' Butonuna Basın.
+**Adım 2: Depo Konumunu ```https://github.com/mehmetalperozbay/CarRentService.git``` Olarak Değiştirin ve 'Kopyala' Butonuna Basın.**
 
 ![Adım 2](./images/git2.png)
 
