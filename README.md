@@ -45,8 +45,8 @@ Projeyi çalıştırmak için aşağıdaki yazılımlara ihtiyacınız var:
 
 ### Projeyi Klonlama
 
-[Adım 1](https://github.com/mehmetalperozbay/CarRentService/images/git1.png)
-[Adım 2](https://github.com/mehmetalperozbay/CarRentService/images/git2.png)
+[Adım 1](./images/git1.png)
+[Adım 2](./images/git1.png)
 
 Veya
 
