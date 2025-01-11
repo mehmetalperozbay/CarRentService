@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 using System.Net.Http;
 
-namespace ArabaKCarRentServiceiralama.Api
+namespace CarRentService.Api
 {
     public class akaryakit
     {
