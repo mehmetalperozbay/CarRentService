@@ -37,7 +37,7 @@ namespace CarRentService
                         donguanahtari = true;
                         int response = Register.Menu();
 
-                        if (response != -1)
+                        if (response != 0)
                         {
 
                             Console.Clear();
